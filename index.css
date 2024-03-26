@@ -1,0 +1,422 @@
+.bg1 {
+    background-image: url(Header\ bg@2x.png);
+    background-size: cover;
+    height: 100vh; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.pg1{
+    background-color: white;
+}
+.logo{
+    font-size:30px;
+    text-decoration: none;
+    color: blue;
+    font-weight: bolder;
+}
+
+.hpg1{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top:30px
+}
+.port{
+    margin-left:800px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.con{
+    margin-right: 100px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.ab{
+    font-size: 20px;
+    text-decoration: none;
+}
+.txt1c{
+   
+    font-size: 40px;
+    color: rgb(40, 40, 81);
+    font-weight: bolder;
+   
+}
+.tt2{
+    position: relative;
+    top:100px;
+    left:-275px
+}
+.spics{
+    background-image: url(social\ media\ icons.png);
+    background-size: cover;
+    height: 20px;
+    width: 200px;
+
+}
+.lowp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top:-150px;
+    left:-285px
+    
+}
+.spics{
+    position:relative;
+     top:30px;
+     left:-80px;
+     position: relative;
+     left:-90px;
+}
+.connect{
+    color: rgb(43, 79, 180);
+    font-size: 20px;
+    position: relative;
+    left:10px
+}
+body{
+    height: 2000px;
+    background-color: gray;
+}
+.pg2{
+    position: relative;
+    top:200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.main2{
+    width: 1156px;
+    height: 496px;
+    background-color: white;
+}
+.det2{
+    background-image: url(Snapshoot\ Portfolio.png);
+    width: 544px;
+    height: 448px;
+}
+.im2{
+    display:flex ;
+    position: relative;
+    Top:24px;
+    left: 24px;
+    radius:8px
+
+
+}
+.main2x{
+    width: 544px;
+    height: 445px;
+ 
+    position: relative;
+    top:20px;
+    display: flex;
+    justify-content: center;
+ 
+}
+.m2{
+    display: flex;
+    justify-content: center;
+    
+}
+.b2{
+    height:100%  ;
+    width: 450px;
+ 
+}
+.tonic{
+    position: relative;
+    top:40px;
+    font-size:40px ;
+    color:rgb(44, 44, 106);
+    font-weight: bolder;
+    
+}
+.thr{
+    position: relative;
+    top:80px;
+    display: flex;
+    justify-content: flex-start;
+
+    
+}
+.canopy{
+    font-size: 20px;
+
+}
+.backe{
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+.y2015{
+    margin-left: 20px;
+    font-size: 20px;
+
+}
+.para2{
+    position: relative;
+    top:100px;
+    font-size: 18px;
+}
+.button2{
+    position: relative;
+    top:140px
+   
+}
+.html{
+    background-color: #EBEBFF;
+    color:rgb(86, 86, 248);
+    border-radius:20% ;
+    border:none;
+    font-size:20px ;
+    
+}
+.css{
+  
+        background-color: #EBEBFF;
+        color:rgb(86, 86, 248);
+        border-radius:20% ;
+        border:none;
+        font-size:20px ;
+    
+    
+}
+.js{  background-color: #EBEBFF;
+    color:rgb(86, 86, 248);
+    border-radius:20% ;
+    border:none;
+    font-size:20px ;
+
+    
+}
+.sep{
+    background-color: #EBEBFF;
+    height: 40px;
+    width: 126px;
+    font-size: 20px;
+    border-radius: 10px;
+    color:rgb(86, 86, 248);
+    border-color:rgb(86, 86, 248); 
+    position: relative;
+    top:180px
+}
+.m2{
+    position: relative;
+    top:-290px;
+    left:280px
+}
+.det3{
+    background-image: url(pic3.png);
+    width: 544px;
+    height: 448px;
+    position: relative;
+    left: 550px
+}
+
+.main3x{
+    position: relative;
+    left:-580px
+}
+.pg3{
+    position: relative;
+    top:200px;
+    display: flex;
+    justify-content: center;
+    
+}
+.final3{
+    position: relative;
+    top:-300px;
+    
+}
+.det4{
+    background-image: url(fb.png);
+    width: 544px;
+    height: 448px;
+    
+}
+.sep1{
+    background-color: rgb(86, 86, 248);
+    height: 40px;
+    width: 126px;
+    font-size: 20px;
+    border-radius: 10px;
+    color:#EBEBFF;
+    border-color:rgb(86, 86, 248); 
+    position: relative;
+    top:180px
+}
+
+.det5{
+    background-image: url(last.png);
+    width: 544px;
+    height: 448px;
+    position: relative;
+    left: 550px
+}
+.lastx{
+    
+    width: 1440px;
+    height: 900px;
+    background-color: white;
+   
+}
+
+
+.side1{
+    width: 1440px;
+    height: 900px;
+    background-color: white;
+ 
+   
+
+  
+    
+}
+.side2{
+    position: relative;
+    top:150px;
+    left:143px;
+}
+.myself{
+   
+    font-size:40px ;
+    color:rgb(44, 44, 106);
+    font-weight: bolder;
+ 
+    
+}
+.lastp{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.conne{
+    color: rgb(27, 61, 216);
+    font-size: 25px;
+    margin-top: 30px;
+
+}
+.iconpic{
+    height:20px;
+    width: 200px;
+    background-image: url(social\ media\ icons.png);
+    background-size: contain;
+  
+    background-repeat: no-repeat;
+    margin-top: 30px;
+}
+.resume{
+    background-color: white;
+    height: 48px;
+    width: 162px;
+    font-size: 20px;
+    border-radius: 10px;
+    color:rgb(86, 86, 248);
+    margin-top: 30px;
+ 
+    border-color:rgb(86, 86, 248); 
+}
+.box1{
+    width:122px;
+    height: 120px;
+    background-color: #F7F7F9;
+}
+.box3{
+    width:122px;
+    height: 120px;
+    background-color: #F7F7F9;
+        margin-left: 20px;
+}
+.box2{
+    width:122px;
+    height: 120px;
+    background-color: #F7F7F9;
+    margin-left: 20px;
+
+}
+.boxes{
+    display: flex;
+  
+}
+.c11{
+    height: 48px;
+    width: 48px;
+    border-radius:50% ;
+    background-color: red;
+    background-image: url(js.png);
+    background-size:cover ;
+    position: relative;
+    top:12px;
+    left: 12px;
+}
+.c22{
+    height: 48px;
+    width: 48px;
+    border-radius:50% ;
+    background-color: red;
+    background-image: url(html.png);
+    background-size:cover ;
+    position: relative;
+    top:12px;
+    left: 12px;
+}
+.c33{
+    height: 48px;
+    width: 48px;
+    border-radius:50% ;
+    background-color: red;
+    background-image: url(css.png);
+    background-size:cover ;
+    position: relative;
+    top:12px;
+    left: 12px;
+}
+.tjs{
+    position: relative;
+    top:30px;
+    left:15px
+}
+.thtml{
+    position: relative;
+    top:30px;
+    left:15px
+}
+.tcss{
+    position: relative;
+    top:30px;
+    left:15px
+}
+.lang{
+   
+    font-size:40px ;
+    color:rgb(44, 44, 106);
+    font-weight: bolder;
+ margin-bottom: 20px;
+    
+}
+.lp{
+    position: relative;
+    left:650px;
+    top:-754px
+}
+.last{
+    position: relative;
+    top:-400px
+}
+.finalall{
+    position: relative;
+    top:-600px;
+}
+.topall{
+    position: relative;
+    top:-100px
+}
+body{
+background-color: rgb(240, 239, 239);
+}
